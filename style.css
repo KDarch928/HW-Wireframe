@@ -9,7 +9,6 @@ body {
 
 p {
 	text-align: center;
-	color: #777;
 }
 
 .size1 {
@@ -29,11 +28,13 @@ p {
 
 .nav {
 	background: #ebebeb;
+	color: #777;
 	margin-bottom: 20px
 }
 
 .section {
 	background: #ebebeb;
+	color: #777;
 	width: 495px;
 	float: left;
 	clear: both;
@@ -52,6 +53,7 @@ p {
 
 .headers {
 	background: #ebebeb;
+	color: #777;
 	padding: 2px;
 	margin-left: 20px;
 	margin-right: 20px;
@@ -60,6 +62,7 @@ p {
 
 .para {
 	background: #ebebeb;
+	color: #777;
 	padding: 2px;
 	margin-left: 20px;
 	margin-right: 20px;
@@ -68,6 +71,7 @@ p {
 
 .aside {
 	background: #ebebeb;
+	color: #777;
     float: left;
     width: 405px;
     margin-left: 20px;
@@ -76,6 +80,7 @@ p {
 
 .footer {
 	background: #ebebeb;
+	color: #777;
 	clear: both;
 }
 
